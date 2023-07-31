@@ -1,5 +1,5 @@
 # Masters Works
-Included in this repository are selected final projects completed during my Master's program at Boston University. In the spirit of academic integrity, I have scrubbed the course names and identifiers from the included files so that they will not be plagiarised by future students.
+Included in this repository are selected final projects completed during my Masters program at Boston University. In the spirit of academic integrity, I have scrubbed the course names and identifiers from the included files so that they will not be plagiarised by future students.
 
 ### [An Analysis of Graduate Admissions](an-analysis-of-graduate-admissions)
 An analysis of graduate admissions data researching whether the chance to admit can be predicted from given inputs using means-based statistical tests and Multiple Linear Regression. Includes:
