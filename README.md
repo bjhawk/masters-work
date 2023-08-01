@@ -15,10 +15,15 @@ An end-to-end data warehousing and reporting project. Raw data and a backup of t
    + report and presentation, and
    + Tableau workbook
 
-
 ### [An Exploration of the Effect of Feature Selection on Machine Learning](feature-selection)
 An exploratory research project comparing several types of Feature Selection approaches across several Machine Learning algorithms. Includes:
    + Data
+   + RMarkdown file with full analysis code, and
+   + Final report
+
+### [Graph Visualization Using Unstructured Text](graph-visualization-using-unstructured-text)
+A demonstration of graph analysis that can support underlying NLP approaches using H.P. Lovecraft's work _The Dunwich Horror_. Includes:
+   + The raw text data as an .Robj file
    + RMarkdown file with full analysis code, and
    + Final report
 
